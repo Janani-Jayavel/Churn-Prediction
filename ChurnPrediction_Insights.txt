@@ -1,0 +1,61 @@
+Customer Churn Prediction Insights:
+------------------------------------
+
+Observation:
+-------------
+
+Out of the total sample drawn for analysis, 26.5% of the customers have churn out in last 38months.
+Out of 26.5% customers who have churned are :
+	- 13.33% Female & 13.20% Male
+	- 17.04% doesn't have partner & 9.50% has partner
+	- 21.91% has dependents & 4.63% has no dependents
+	- 19.78% are not senior citizens & 6.76% are senior citizens
+	- 24.12% have phone service & 2.41% don't have phone service
+	- 12.07% has multiple Lines, 12.05% doesn't have multiple Lines,& 2.41% don't have phone service
+	- 18.42% has FiberOptic cable, 6.52 has DSL Internet service, & 1.60 % has no Internet
+	- 20.74% has no Online Security, 4.19% has Online Security, 1.60% has no Internet
+	- 17.51% has no Online Backup, 7.43% has Online Backup, & 1.60% has no Internet
+	- 17.19% has no Device Protection, 7.74% has Device Protection & 1.60% has no Internet
+	- 13.37% has no streaming TV, 11.56% has streaming TV & 1.60% has no Internet
+	- 13.32% has no streaming Movies, 11.61% has streaming movies & 1.60% has no Internet
+	- 20.53% has no tech support , 4.40% has tech support, & 1.60% has no Internet
+	- 23.50% has Monthly contract, 2.36% has yearly contract & 0.68% has two years of contract
+	- 19.88% belong to Paperless Billing, 6.66% belong to Paper Billing
+	- 15.21% belongs to Electronic Check, 4.37% belongs to Mailed Check , 3.66% belongs to automatic Bank Transfer, 3.29% belong to credit card auto transfer
+
+Insights : 
+-----------
+ 
+Customer who are less than 20months are more likely to churn out than customers whose tenure is greater than 20 months.
+so, our initial focus is to make the customer stay for first 20months of opting our service.
+Initial 20months - Crucial period
+Customers who have opted for Monthly contract are churning more than customers who have opted for 
+yearly & 2yrs contract by 88.67%
+Target - Monthly Contract customers
+
+
+Customer Focus :
+-----------------
+1) Customers < 20months period from DOJ
+2) Customers who have Monthly Contract 
+3) Doesn't have techsupport opted
+4) Doesn't have Online Security , Online Backup, Device Protection
+5) have phone service, FiberOptic Cable
+
+Solution Proposal : 
+-------------------
+
+Above said customers 
+- can be given new additional plans with extra discounts, 
+- shall be encouraged to move to an yearly contract from Monthly
+- can provide them with better tech support, 
+- New OnlineSecurity + OnlinBackup package plan shall be introduced at discounted price
+- Customer with only Phone service shall be encouraged to take up Internet service
+- New Senior Citizen Internet plans shall be introduced to cover that particular age group
+
+These solution proposal can be optimised by adding more details like adding Plan Suggestions , Package suggestion, Eligible Discounts, etc..
+
+
+
+
+ 
